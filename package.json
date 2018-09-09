@@ -1,0 +1,15 @@
+{
+  "name": "jest",
+  "version": "1.0.0",
+  "description": "Getting started with Jest",
+  "main": "index.js",
+  "repository": "https://github.com/camilaibs/jest.git",
+  "author": "Camila Belo",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^23.5.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
